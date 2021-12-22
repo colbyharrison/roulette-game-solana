@@ -1,0 +1,23 @@
+{
+  "name": "roulette-game-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colbyharrison/roulette-game-solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/colbyharrison/roulette-game-solana/issues"
+  },
+  "homepage": "https://github.com/colbyharrison/roulette-game-solana#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.30.2"
+  }
+}
